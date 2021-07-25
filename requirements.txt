@@ -1,0 +1,6 @@
+django
+requests
+numpy
+pandas
+mongoengine
+firebase-admin
